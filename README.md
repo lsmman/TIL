@@ -3,6 +3,7 @@
 
 - [![HitCount](http://hits.dwyl.io/lsmman/TIL.svg)](http://hits.dwyl.io/lsmman/TIL)
 - Start date : 2019.04.11
+- restart date : 2019.10.03
 
 ## 작성 규칙
 - 언어나 기술명으로 폴더를 만든다 (root에 문서를 만들지 않는다)
@@ -11,11 +12,13 @@
 
 ## Folder Structure
 ```
-├── example
+├── Python
+├── jupyter
+├── ML
+├── numpy
 └── end
 ```
 
 ## Reference
-[유림님 TIL](https://github.com/milooy/TIL#today-i-learned)
-<br/>
-[변성윤(zzsza)님 TIL](https://github.com/zzsza/TIL)
+- [유림님 TIL](https://github.com/milooy/TIL#today-i-learned)
+- [변성윤(zzsza)님 TIL](https://github.com/zzsza/TIL)
