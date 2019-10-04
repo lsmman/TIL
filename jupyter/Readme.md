@@ -1,7 +1,7 @@
 
 # Jupyter notebook 
 
-## Install
+## Install & Setting
 
 ### jupyter notebook
 
@@ -17,7 +17,7 @@
 
 ### Theme
 
-- #### 설치 
+- #### 설치  
 
     - `pip install jupyterthemes`
 
@@ -69,3 +69,57 @@
             font-size: 12pt;
         }
         ```
+
+## Shortcut key
+
+- 위로 셀 추가
+
+        [a]
+
+- 아래로 셀 추가
+
+        [b]
+
+- 선택 셀 삭제
+
+        [d][d] (d를 두번 누름)
+
+- 선택 셀 잘라내기 (삭제로 써도 무방)
+
+        [x]
+
+- 선택 셀 복사하기 
+
+        [c] 
+- 선택 셀 아래에 붙여넣기
+
+        [p] 
+
+- 선택 셀과 아래 셀과 합치기
+
+        [shift] + [m]
+
+- 실행결과 열기/닫기
+
+        [o]
+
+- Markdown으로 변경
+
+        [m]
+
+- Code로 변경
+
+        [y]
+
+- 파일 저장
+
+        [ctrl] + [s] 또는 [s] 
+
+
+- 선택 셀의 코드 입력 모드로 돌아가기
+
+        [enter]
+
+
+
+단축키 출처: https://kkokkilkon.tistory.com/151 [꼬낄콘의 분석일지]
