@@ -1,3 +1,4 @@
 files
 ML/006967/
-numpy/.ipynb_checkpoints/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
