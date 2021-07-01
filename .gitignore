@@ -3,3 +3,5 @@ ML/006967/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
 *.iml
+
+.idea
